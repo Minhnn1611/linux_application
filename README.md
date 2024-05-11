@@ -1,1 +1,1 @@
-BTL DTTT Nhom07
+Linux application
